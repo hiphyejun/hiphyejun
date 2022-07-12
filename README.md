@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=170&color=auto&section=header&text=Welcome!&animation=blink&FontSize=30fontAlignY=38&desc=HyeJun's%20GitHub%20Profile&descAlignY=80&descAlign=80)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiphyejun%2Fhiphyejun&count_bg=%2379C83D&title_bg=%23895E26&icon=hey.svg&icon_color=%23FFF8F8&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
+![header](https://capsule-render.vercel.app/api?type=cylinder&width=100&height=170&color=auto&section=header&text=Welcome!&animation=blink&FontSize=30fontAlignY=38&desc=HyeJun's%20GitHub%20Profile&descAlignY=80&descAlign=80)
 <br>
 
 <p align="center">
